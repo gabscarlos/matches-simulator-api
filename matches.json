@@ -19,13 +19,13 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Olympic Stadium Hernando Siles",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+      "nome": "Estádio Nacional",
+      "imagem": "https://tntsports.com.br/__export/1571591255921/sites/esporteinterativo/img/2019/10/20/estadio-nacional-santiago_1.jpg_1515542565.jpg"
     },
     "mandante": {
-      "nome": "Bolívia",
-      "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+      "nome": "Chile",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
     },
     "visitante": {
       "nome": "Brasil",
@@ -45,9 +45,9 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "Colombia",
+      "nome": "Bolívia",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     }
   }
 ]
